@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC6158817",
+  "version": 1,
+  "pmid": 30257646,
+  "doi": "10.1186/s12885-018-4821-8",
+  "mid": null,
+  "title": "Addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinical selection criteria",
+  "citation": "BMC Cancer. 2018 Sep 26;18:926. doi: 10.1186/s12885-018-4821-8",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC6158817.1/PMC6158817.1.xml?md5=e0dea0ab8cea4a662382df8d818b3334",
+  "pdf_url": "s3://pmc-oa-opendata/PMC6158817.1/PMC6158817.1.pdf?md5=90015bcaf25c047e4d7b5a82dda5ae26",
+  "text_url": "s3://pmc-oa-opendata/PMC6158817.1/PMC6158817.1.txt?md5=3898fdfd57802536cdb84171a2b7a592",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC6158817.1/12885_2018_4821_Fig1_HTML.jpg?md5=164cff072ff55ffdabc9759cda0ac518",
+    "s3://pmc-oa-opendata/PMC6158817.1/12885_2018_4821_Fig2_HTML.jpg?md5=4d8044077d3b9e86edaf6948ba7981ab",
+    "s3://pmc-oa-opendata/PMC6158817.1/12885_2018_4821_Fig3_HTML.jpg?md5=f799f62930322bf9c16e0dc188da848b"
+  ],
+  "source_metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6158817.1/PMC6158817.1.json",
+  "source_xml_https": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6158817.1/PMC6158817.1.xml?md5=e0dea0ab8cea4a662382df8d818b3334",
+  "sha256": "3b926a8b4b0f5f9d5c5d0f20266e725588a7da56608125cd715eeb9e560b7cfb",
+  "downloaded_at_utc": "2026-09-17T09:59:12.458801+00:00"
+}

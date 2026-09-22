@@ -1,0 +1,20 @@
+{
+  "pmcid": "PMC6028935",
+  "version": 1,
+  "pmid": 29860986,
+  "doi": "10.1016/j.trecan.2018.04.001",
+  "mid": "NIHMS958907",
+  "title": "Immunotherapy and prevention of pancreatic cancer",
+  "citation": "Trends Cancer. Author manuscript; Available in PMC 2019 Jun 1.",
+  "is_pmc_openaccess": false,
+  "is_manuscript": true,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "TDM",
+  "xml_url": "s3://pmc-oa-opendata/PMC6028935.1/PMC6028935.1.xml?md5=24c49d0124baf313cbdc348e776b1cf4",
+  "text_url": "s3://pmc-oa-opendata/PMC6028935.1/PMC6028935.1.txt?md5=1dc84308668f1dcda9dfb1e39f499bbb",
+  "source_metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6028935.1/PMC6028935.1.json",
+  "source_xml_https": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6028935.1/PMC6028935.1.xml?md5=24c49d0124baf313cbdc348e776b1cf4",
+  "sha256": "d0e2dcf7df2bde845fdddec90637e70946a0769bc0d32544d94c00d1d3ccc27e",
+  "downloaded_at_utc": "2026-09-17T09:43:09.750830+00:00"
+}

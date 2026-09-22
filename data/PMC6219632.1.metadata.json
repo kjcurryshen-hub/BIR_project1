@@ -1,0 +1,20 @@
+{
+  "pmcid": "PMC6219632",
+  "version": 1,
+  "pmid": 30257212,
+  "doi": "10.1016/j.celrep.2018.08.086",
+  "mid": "NIHMS1508950",
+  "title": "BRCA1 Mutation-Specific Responses to 53BP1 Loss-Induced Homologous Recombination and PARP Inhibitor Resistance",
+  "citation": "Cell Rep. Author manuscript; Available in PMC 2018 Nov 6.",
+  "is_pmc_openaccess": false,
+  "is_manuscript": true,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "TDM",
+  "xml_url": "s3://pmc-oa-opendata/PMC6219632.1/PMC6219632.1.xml?md5=492a082ef2bd7664a296685019653fec",
+  "text_url": "s3://pmc-oa-opendata/PMC6219632.1/PMC6219632.1.txt?md5=c4c79f44f494d21bbca9ba3b98b60090",
+  "source_metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6219632.1/PMC6219632.1.json",
+  "source_xml_https": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6219632.1/PMC6219632.1.xml?md5=492a082ef2bd7664a296685019653fec",
+  "sha256": "2e4daf1e5d088651224d3cead1a7bc5af3de0b885838efc947ee6e1bcf773148",
+  "downloaded_at_utc": "2026-09-17T09:48:54.470261+00:00"
+}
